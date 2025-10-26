@@ -14,9 +14,9 @@
 This report documents the identification and remediation of **10 critical security vulnerabilities** in a Spring Boot REST API application based on the OWASP API Security Top 10. Each vulnerability has been successfully addressed with industry-standard security practices.
 
 **Project Repository:** https://github.com/i227424-oss/owasp-api-vuln-lab.git
-- **Vulnerable Code Branch:** `main`
-- **Fixed Code Branch:** `fix/api-security-hardening`
-- **Pull Request:** [Will be created after GitHub setup]
+- **Vulnerable Code Branch:** https://github.com/i227424-oss/owasp-api-vuln-lab/tree/main
+- **Fixed Code Branch:** https://github.com/i227424-oss/owasp-api-vuln-lab/tree/fix/api-security-hardening
+- **Pull Request:** https://github.com/i227424-oss/owasp-api-vuln-lab/pull/1
 
 **Build Status:** ✅ **SUCCESS** (Java 21, Spring Boot 3.3.4)
 
