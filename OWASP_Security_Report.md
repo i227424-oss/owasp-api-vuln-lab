@@ -1,6 +1,8 @@
 # OWASP API Security Vulnerabilities - Implementation Report
 
-**Student Name:** [Your Name]  
+**Student Name:** Fatima Khan, Taha Nayab, Ariz Usman, Zainab Kayani
+**Student Roll no:** 22i-1603, 22i-1610, 22i-1607, 22i-7424
+\
 **Course:** SSD Theory  
 **Assignment:** Assignment 03 - OWASP API Security Lab  
 **Date:** October 25, 2025  
@@ -11,7 +13,7 @@
 
 This report documents the identification and remediation of **10 critical security vulnerabilities** in a Spring Boot REST API application based on the OWASP API Security Top 10. Each vulnerability has been successfully addressed with industry-standard security practices.
 
-**Project Repository:** https://github.com/[YOUR_USERNAME]/owasp-api-vuln-lab
+**Project Repository:** https://github.com/i227424-oss/owasp-api-vuln-lab.git
 - **Vulnerable Code Branch:** `main`
 - **Fixed Code Branch:** `fix/api-security-hardening`
 - **Pull Request:** [Will be created after GitHub setup]
